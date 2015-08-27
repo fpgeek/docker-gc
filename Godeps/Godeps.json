@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/fpgeek/docker-gc",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.7.3-2-g26709e2",
+			"Rev": "26709e2714106fb8ad40b773b711ebce25b78914"
+		},
+		{
+			"ImportPath": "github.com/frhwang/gopkg/env",
+			"Rev": "26f1ece521029d74cacd2991b50f87ddd7fc2f49"
+		},
+		{
+			"ImportPath": "github.com/fsouza/go-dockerclient",
+			"Comment": "0.2.1-633-g1fcbb70",
+			"Rev": "1fcbb70fa784204fd2088536a974718cd764473f"
+		}
+	]
+}
