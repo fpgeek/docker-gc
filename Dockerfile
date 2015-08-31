@@ -1,6 +1,6 @@
 FROM golang:1.5
 
-MAINTAINER Dave Choi <dave.choi@daumkakao.com>
+MAINTAINER Dave Choi
 
 COPY . $GOPATH/src/github.com/fpgeek/docker-gc
 WORKDIR $GOPATH/src/github.com/fpgeek/docker-gc
